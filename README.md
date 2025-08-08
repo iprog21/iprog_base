@@ -1,4 +1,4 @@
-# IprogBase
+# iprog_base
 
 Base service/command class using the Template Method Pattern.
 
@@ -6,7 +6,7 @@ Provides a reusable, extensible base class for service or command objects in Rub
 
 <img src="https://github.com/IPROG-TECH/media-files/blob/main/iprogtech-logo.png" width="150" alt="IPROG TECH" align="right" />
 
-This gem is provided by [**IPROG TECH**](https://www.iprog.tech/), an information technology company specializing in web development services using Ruby on Rails. IPROG TECH also offers free programming tutorials.
+This gem is provided by [**IPROG TECH**](https://www.iprogtech.com/), an information technology company specializing in web development services using Ruby on Rails. IPROG TECH also offers free programming tutorials.
 
 **Providing Good Quality Web Services:**
 - Startup
